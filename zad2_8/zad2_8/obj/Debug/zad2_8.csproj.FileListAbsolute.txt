@@ -1,0 +1,5 @@
+C:\Users\admin\Desktop\zad2_8\zad2_8\bin\Debug\zad2_8.exe.config
+C:\Users\admin\Desktop\zad2_8\zad2_8\bin\Debug\zad2_8.exe
+C:\Users\admin\Desktop\zad2_8\zad2_8\bin\Debug\zad2_8.pdb
+C:\Users\admin\Desktop\zad2_8\zad2_8\obj\Debug\zad2_8.exe
+C:\Users\admin\Desktop\zad2_8\zad2_8\obj\Debug\zad2_8.pdb

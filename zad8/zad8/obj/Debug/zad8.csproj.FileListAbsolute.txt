@@ -1,0 +1,6 @@
+C:\Users\admin\Desktop\zad8\zad8\bin\Debug\zad8.exe.config
+C:\Users\admin\Desktop\zad8\zad8\bin\Debug\zad8.exe
+C:\Users\admin\Desktop\zad8\zad8\bin\Debug\zad8.pdb
+C:\Users\admin\Desktop\zad8\zad8\obj\Debug\zad8.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\zad8\zad8\obj\Debug\zad8.exe
+C:\Users\admin\Desktop\zad8\zad8\obj\Debug\zad8.pdb

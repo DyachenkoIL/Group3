@@ -1,0 +1,13 @@
+c:\users\виталий\source\repos\Task2_5\Task2_5\bin\Debug\Task2_5.exe.config
+c:\users\виталий\source\repos\Task2_5\Task2_5\bin\Debug\Task2_5.exe
+c:\users\виталий\source\repos\Task2_5\Task2_5\bin\Debug\Task2_5.pdb
+c:\users\виталий\source\repos\Task2_5\Task2_5\obj\Debug\Task2_5.csprojResolveAssemblyReference.cache
+c:\users\виталий\source\repos\Task2_5\Task2_5\obj\Debug\Task2_5.csproj.CoreCompileInputs.cache
+c:\users\виталий\source\repos\Task2_5\Task2_5\obj\Debug\Task2_5.exe
+c:\users\виталий\source\repos\Task2_5\Task2_5\obj\Debug\Task2_5.pdb
+C:\Users\admin\Desktop\Task2_5\Task2_5\bin\Debug\Task2_5.exe.config
+C:\Users\admin\Desktop\Task2_5\Task2_5\obj\Debug\Task2_5.exe
+C:\Users\admin\Desktop\Task2_5\Task2_5\obj\Debug\Task2_5.pdb
+C:\Users\admin\Desktop\Task2_5\Task2_5\bin\Debug\Task2_5.exe
+C:\Users\admin\Desktop\Task2_5\Task2_5\bin\Debug\Task2_5.pdb
+C:\Users\admin\Desktop\Task2_5\Task2_5\obj\Debug\Task2_5.csprojResolveAssemblyReference.cache

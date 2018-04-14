@@ -1,0 +1,6 @@
+C:\Users\admin\Desktop\zad2_2\zad2_2\bin\Debug\zad2_2.exe.config
+C:\Users\admin\Desktop\zad2_2\zad2_2\bin\Debug\zad2_2.exe
+C:\Users\admin\Desktop\zad2_2\zad2_2\bin\Debug\zad2_2.pdb
+C:\Users\admin\Desktop\zad2_2\zad2_2\obj\Debug\zad2_2.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\zad2_2\zad2_2\obj\Debug\zad2_2.exe
+C:\Users\admin\Desktop\zad2_2\zad2_2\obj\Debug\zad2_2.pdb

@@ -1,0 +1,10 @@
+C:\Users\Виталий\source\repos\Task1\Task1\bin\Debug\Task1.exe.config
+C:\Users\Виталий\source\repos\Task1\Task1\bin\Debug\Task1.exe
+C:\Users\Виталий\source\repos\Task1\Task1\bin\Debug\Task1.pdb
+C:\Users\Виталий\source\repos\Task1\Task1\obj\Debug\Task1.csprojResolveAssemblyReference.cache
+C:\Users\Виталий\source\repos\Task1\Task1\obj\Debug\Task1.csproj.CoreCompileInputs.cache
+C:\Users\Виталий\source\repos\Task1\Task1\obj\Debug\Task1.exe
+C:\Users\Виталий\source\repos\Task1\Task1\obj\Debug\Task1.pdb
+C:\Users\admin\Desktop\Task1\Task1\bin\Debug\Task1.exe.config
+C:\Users\admin\Desktop\Task1\Task1\obj\Debug\Task1.exe
+C:\Users\admin\Desktop\Task1\Task1\obj\Debug\Task1.pdb

@@ -1,0 +1,5 @@
+C:\Users\admin\Desktop\zad4\zad4\bin\Debug\zad4.exe.config
+C:\Users\admin\Desktop\zad4\zad4\bin\Debug\zad4.exe
+C:\Users\admin\Desktop\zad4\zad4\bin\Debug\zad4.pdb
+C:\Users\admin\Desktop\zad4\zad4\obj\Debug\zad4.exe
+C:\Users\admin\Desktop\zad4\zad4\obj\Debug\zad4.pdb
