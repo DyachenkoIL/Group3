@@ -13,7 +13,7 @@ namespace Task2_3
         {
             int number, user;
             Random rand = new Random();
-            number = rand.Next() % 146;
+            number = (rand.Next() % 146)+1;
             Console.WriteLine("Try to guess number");
             user = Convert.ToInt32(Console.ReadLine());
             while (user != number)
