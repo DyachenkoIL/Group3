@@ -1,0 +1,7 @@
+F:\Denis\Projects\C# projects\quest5\quest5\bin\Debug\quest5.exe.config
+F:\Denis\Projects\C# projects\quest5\quest5\bin\Debug\quest5.exe
+F:\Denis\Projects\C# projects\quest5\quest5\bin\Debug\quest5.pdb
+F:\Denis\Projects\C# projects\quest5\quest5\obj\Debug\quest5.csprojResolveAssemblyReference.cache
+F:\Denis\Projects\C# projects\quest5\quest5\obj\Debug\quest5.csproj.CoreCompileInputs.cache
+F:\Denis\Projects\C# projects\quest5\quest5\obj\Debug\quest5.exe
+F:\Denis\Projects\C# projects\quest5\quest5\obj\Debug\quest5.pdb

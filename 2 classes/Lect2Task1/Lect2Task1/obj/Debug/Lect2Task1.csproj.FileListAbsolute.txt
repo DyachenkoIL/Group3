@@ -1,0 +1,10 @@
+C:\Users\Виталий\source\repos\Lect2Task1\Lect2Task1\bin\Debug\Lect2Task1.exe.config
+C:\Users\Виталий\source\repos\Lect2Task1\Lect2Task1\bin\Debug\Lect2Task1.exe
+C:\Users\Виталий\source\repos\Lect2Task1\Lect2Task1\bin\Debug\Lect2Task1.pdb
+C:\Users\Виталий\source\repos\Lect2Task1\Lect2Task1\obj\Debug\Lect2Task1.csprojResolveAssemblyReference.cache
+C:\Users\Виталий\source\repos\Lect2Task1\Lect2Task1\obj\Debug\Lect2Task1.csproj.CoreCompileInputs.cache
+C:\Users\Виталий\source\repos\Lect2Task1\Lect2Task1\obj\Debug\Lect2Task1.exe
+C:\Users\Виталий\source\repos\Lect2Task1\Lect2Task1\obj\Debug\Lect2Task1.pdb
+C:\Users\admin\Desktop\Lect2Task1\Lect2Task1\bin\Debug\Lect2Task1.exe.config
+C:\Users\admin\Desktop\Lect2Task1\Lect2Task1\obj\Debug\Lect2Task1.exe
+C:\Users\admin\Desktop\Lect2Task1\Lect2Task1\obj\Debug\Lect2Task1.pdb

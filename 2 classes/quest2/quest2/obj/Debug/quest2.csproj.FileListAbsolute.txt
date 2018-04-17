@@ -1,0 +1,13 @@
+F:\Denis\Projects\C# projects\quest2\quest2\bin\Debug\quest2.exe.config
+F:\Denis\Projects\C# projects\quest2\quest2\bin\Debug\quest2.exe
+F:\Denis\Projects\C# projects\quest2\quest2\bin\Debug\quest2.pdb
+F:\Denis\Projects\C# projects\quest2\quest2\obj\Debug\quest2.csprojResolveAssemblyReference.cache
+F:\Denis\Projects\C# projects\quest2\quest2\obj\Debug\quest2.csproj.CoreCompileInputs.cache
+F:\Denis\Projects\C# projects\quest2\quest2\obj\Debug\quest2.exe
+F:\Denis\Projects\C# projects\quest2\quest2\obj\Debug\quest2.pdb
+C:\Users\admin\Desktop\quest2\quest2\bin\Debug\quest2.exe.config
+C:\Users\admin\Desktop\quest2\quest2\obj\Debug\quest2.exe
+C:\Users\admin\Desktop\quest2\quest2\obj\Debug\quest2.pdb
+C:\Users\admin\Desktop\quest2\quest2\bin\Debug\quest2.exe
+C:\Users\admin\Desktop\quest2\quest2\bin\Debug\quest2.pdb
+C:\Users\admin\Desktop\quest2\quest2\obj\Debug\quest2.csprojResolveAssemblyReference.cache

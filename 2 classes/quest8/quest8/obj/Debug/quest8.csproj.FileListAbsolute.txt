@@ -1,0 +1,7 @@
+F:\Denis\Projects\C# projects\quest8\quest8\bin\Debug\quest8.exe.config
+F:\Denis\Projects\C# projects\quest8\quest8\bin\Debug\quest8.exe
+F:\Denis\Projects\C# projects\quest8\quest8\bin\Debug\quest8.pdb
+F:\Denis\Projects\C# projects\quest8\quest8\obj\Debug\quest8.csprojResolveAssemblyReference.cache
+F:\Denis\Projects\C# projects\quest8\quest8\obj\Debug\quest8.csproj.CoreCompileInputs.cache
+F:\Denis\Projects\C# projects\quest8\quest8\obj\Debug\quest8.exe
+F:\Denis\Projects\C# projects\quest8\quest8\obj\Debug\quest8.pdb

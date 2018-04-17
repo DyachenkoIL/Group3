@@ -1,0 +1,7 @@
+C:\Users\Виталий\source\repos\Lect2Task7\Lect2Task7\obj\Debug\Lect2Task7.csprojResolveAssemblyReference.cache
+C:\Users\Виталий\source\repos\Lect2Task7\Lect2Task7\obj\Debug\Lect2Task7.csproj.CoreCompileInputs.cache
+C:\Users\Виталий\source\repos\Lect2Task7\Lect2Task7\bin\Debug\Lect2Task7.exe.config
+C:\Users\Виталий\source\repos\Lect2Task7\Lect2Task7\bin\Debug\Lect2Task7.exe
+C:\Users\Виталий\source\repos\Lect2Task7\Lect2Task7\bin\Debug\Lect2Task7.pdb
+C:\Users\Виталий\source\repos\Lect2Task7\Lect2Task7\obj\Debug\Lect2Task7.exe
+C:\Users\Виталий\source\repos\Lect2Task7\Lect2Task7\obj\Debug\Lect2Task7.pdb
