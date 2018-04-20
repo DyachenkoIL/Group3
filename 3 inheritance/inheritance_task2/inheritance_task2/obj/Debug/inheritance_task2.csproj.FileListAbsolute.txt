@@ -1,0 +1,7 @@
+F:\Denis\Projects\C# projects\inheritance_task2\inheritance_task2\bin\Debug\inheritance_task2.exe.config
+F:\Denis\Projects\C# projects\inheritance_task2\inheritance_task2\bin\Debug\inheritance_task2.exe
+F:\Denis\Projects\C# projects\inheritance_task2\inheritance_task2\bin\Debug\inheritance_task2.pdb
+F:\Denis\Projects\C# projects\inheritance_task2\inheritance_task2\obj\Debug\inheritance_task2.csprojResolveAssemblyReference.cache
+F:\Denis\Projects\C# projects\inheritance_task2\inheritance_task2\obj\Debug\inheritance_task2.csproj.CoreCompileInputs.cache
+F:\Denis\Projects\C# projects\inheritance_task2\inheritance_task2\obj\Debug\inheritance_task2.exe
+F:\Denis\Projects\C# projects\inheritance_task2\inheritance_task2\obj\Debug\inheritance_task2.pdb
