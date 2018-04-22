@@ -1,0 +1,7 @@
+C:\Users\Denis\source\repos\abstractions_task1\abstractions_task1\bin\Debug\abstractions_task1.exe.config
+C:\Users\Denis\source\repos\abstractions_task1\abstractions_task1\bin\Debug\abstractions_task1.exe
+C:\Users\Denis\source\repos\abstractions_task1\abstractions_task1\bin\Debug\abstractions_task1.pdb
+C:\Users\Denis\source\repos\abstractions_task1\abstractions_task1\obj\Debug\abstractions_task1.csprojResolveAssemblyReference.cache
+C:\Users\Denis\source\repos\abstractions_task1\abstractions_task1\obj\Debug\abstractions_task1.csproj.CoreCompileInputs.cache
+C:\Users\Denis\source\repos\abstractions_task1\abstractions_task1\obj\Debug\abstractions_task1.exe
+C:\Users\Denis\source\repos\abstractions_task1\abstractions_task1\obj\Debug\abstractions_task1.pdb
