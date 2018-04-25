@@ -1,0 +1,6 @@
+C:\Users\admin\Desktop\static_task1\static_task1\bin\Debug\static_task1.exe.config
+C:\Users\admin\Desktop\static_task1\static_task1\bin\Debug\static_task1.exe
+C:\Users\admin\Desktop\static_task1\static_task1\bin\Debug\static_task1.pdb
+C:\Users\admin\Desktop\static_task1\static_task1\obj\Debug\static_task1.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\static_task1\static_task1\obj\Debug\static_task1.exe
+C:\Users\admin\Desktop\static_task1\static_task1\obj\Debug\static_task1.pdb

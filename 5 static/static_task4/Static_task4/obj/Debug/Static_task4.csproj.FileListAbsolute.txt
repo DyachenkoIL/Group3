@@ -1,0 +1,7 @@
+E:\Prog\C#\Static_task4\Static_task4\bin\Debug\Static_task4.exe.config
+E:\Prog\C#\Static_task4\Static_task4\bin\Debug\Static_task4.exe
+E:\Prog\C#\Static_task4\Static_task4\bin\Debug\Static_task4.pdb
+E:\Prog\C#\Static_task4\Static_task4\obj\Debug\Static_task4.csprojResolveAssemblyReference.cache
+E:\Prog\C#\Static_task4\Static_task4\obj\Debug\Static_task4.csproj.CoreCompileInputs.cache
+E:\Prog\C#\Static_task4\Static_task4\obj\Debug\Static_task4.exe
+E:\Prog\C#\Static_task4\Static_task4\obj\Debug\Static_task4.pdb
