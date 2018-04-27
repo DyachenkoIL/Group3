@@ -1,0 +1,7 @@
+E:\Prog\C#\Structures_task3\Structures_task3\bin\Debug\Structures_task3.exe.config
+E:\Prog\C#\Structures_task3\Structures_task3\bin\Debug\Structures_task3.exe
+E:\Prog\C#\Structures_task3\Structures_task3\bin\Debug\Structures_task3.pdb
+E:\Prog\C#\Structures_task3\Structures_task3\obj\Debug\Structures_task3.csprojResolveAssemblyReference.cache
+E:\Prog\C#\Structures_task3\Structures_task3\obj\Debug\Structures_task3.csproj.CoreCompileInputs.cache
+E:\Prog\C#\Structures_task3\Structures_task3\obj\Debug\Structures_task3.exe
+E:\Prog\C#\Structures_task3\Structures_task3\obj\Debug\Structures_task3.pdb

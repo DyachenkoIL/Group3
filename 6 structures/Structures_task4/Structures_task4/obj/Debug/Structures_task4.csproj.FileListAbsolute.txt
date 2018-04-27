@@ -1,0 +1,7 @@
+E:\Prog\C#\Structures_task4\Structures_task4\bin\Debug\Structures_task4.exe.config
+E:\Prog\C#\Structures_task4\Structures_task4\bin\Debug\Structures_task4.exe
+E:\Prog\C#\Structures_task4\Structures_task4\bin\Debug\Structures_task4.pdb
+E:\Prog\C#\Structures_task4\Structures_task4\obj\Debug\Structures_task4.csprojResolveAssemblyReference.cache
+E:\Prog\C#\Structures_task4\Structures_task4\obj\Debug\Structures_task4.csproj.CoreCompileInputs.cache
+E:\Prog\C#\Structures_task4\Structures_task4\obj\Debug\Structures_task4.exe
+E:\Prog\C#\Structures_task4\Structures_task4\obj\Debug\Structures_task4.pdb
