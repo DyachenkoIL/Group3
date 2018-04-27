@@ -5,3 +5,6 @@ c:\users\виталий\source\repos\Lect6Task2\Lect6Task2\obj\Debug\Lect6Task2.
 c:\users\виталий\source\repos\Lect6Task2\Lect6Task2\obj\Debug\Lect6Task2.csproj.CoreCompileInputs.cache
 c:\users\виталий\source\repos\Lect6Task2\Lect6Task2\obj\Debug\Lect6Task2.exe
 c:\users\виталий\source\repos\Lect6Task2\Lect6Task2\obj\Debug\Lect6Task2.pdb
+D:\Git reposit\Group3\6 structures\structures_task2\Lect6Task2\bin\Debug\Lect6Task2.exe.config
+D:\Git reposit\Group3\6 structures\structures_task2\Lect6Task2\obj\Debug\Lect6Task2.exe
+D:\Git reposit\Group3\6 structures\structures_task2\Lect6Task2\obj\Debug\Lect6Task2.pdb

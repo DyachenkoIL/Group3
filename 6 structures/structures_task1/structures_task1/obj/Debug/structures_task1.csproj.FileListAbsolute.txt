@@ -1,0 +1,6 @@
+C:\Users\admin\Desktop\structures_task1\structures_task1\bin\Debug\structures_task1.exe.config
+C:\Users\admin\Desktop\structures_task1\structures_task1\bin\Debug\structures_task1.exe
+C:\Users\admin\Desktop\structures_task1\structures_task1\bin\Debug\structures_task1.pdb
+C:\Users\admin\Desktop\structures_task1\structures_task1\obj\Debug\structures_task1.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\structures_task1\structures_task1\obj\Debug\structures_task1.exe
+C:\Users\admin\Desktop\structures_task1\structures_task1\obj\Debug\structures_task1.pdb
