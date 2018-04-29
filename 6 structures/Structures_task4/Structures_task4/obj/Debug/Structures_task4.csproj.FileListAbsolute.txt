@@ -5,3 +5,6 @@ E:\Prog\C#\Structures_task4\Structures_task4\obj\Debug\Structures_task4.csprojRe
 E:\Prog\C#\Structures_task4\Structures_task4\obj\Debug\Structures_task4.csproj.CoreCompileInputs.cache
 E:\Prog\C#\Structures_task4\Structures_task4\obj\Debug\Structures_task4.exe
 E:\Prog\C#\Structures_task4\Structures_task4\obj\Debug\Structures_task4.pdb
+D:\Git reposit\Group3\6 structures\Structures_task4\Structures_task4\bin\Debug\Structures_task4.exe.config
+D:\Git reposit\Group3\6 structures\Structures_task4\Structures_task4\obj\Debug\Structures_task4.exe
+D:\Git reposit\Group3\6 structures\Structures_task4\Structures_task4\obj\Debug\Structures_task4.pdb

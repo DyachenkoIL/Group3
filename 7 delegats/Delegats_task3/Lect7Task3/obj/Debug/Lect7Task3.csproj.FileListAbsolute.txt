@@ -1,0 +1,10 @@
+C:\Users\Виталий\source\repos\Lect7Task3\Lect7Task3\bin\Debug\Lect7Task3.exe.config
+C:\Users\Виталий\source\repos\Lect7Task3\Lect7Task3\bin\Debug\Lect7Task3.exe
+C:\Users\Виталий\source\repos\Lect7Task3\Lect7Task3\bin\Debug\Lect7Task3.pdb
+C:\Users\Виталий\source\repos\Lect7Task3\Lect7Task3\obj\Debug\Lect7Task3.csprojResolveAssemblyReference.cache
+C:\Users\Виталий\source\repos\Lect7Task3\Lect7Task3\obj\Debug\Lect7Task3.csproj.CoreCompileInputs.cache
+C:\Users\Виталий\source\repos\Lect7Task3\Lect7Task3\obj\Debug\Lect7Task3.exe
+C:\Users\Виталий\source\repos\Lect7Task3\Lect7Task3\obj\Debug\Lect7Task3.pdb
+C:\Users\admin\Desktop\Group3\7 delegats\Delegats_task3\Lect7Task3\bin\Debug\Lect7Task3.exe.config
+C:\Users\admin\Desktop\Group3\7 delegats\Delegats_task3\Lect7Task3\obj\Debug\Lect7Task3.exe
+C:\Users\admin\Desktop\Group3\7 delegats\Delegats_task3\Lect7Task3\obj\Debug\Lect7Task3.pdb
