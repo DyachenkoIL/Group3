@@ -1,0 +1,7 @@
+C:\Users\Denis\source\repos\Generic_task3\Generic_task3\bin\Debug\Generic_task3.exe.config
+C:\Users\Denis\source\repos\Generic_task3\Generic_task3\bin\Debug\Generic_task3.exe
+C:\Users\Denis\source\repos\Generic_task3\Generic_task3\bin\Debug\Generic_task3.pdb
+C:\Users\Denis\source\repos\Generic_task3\Generic_task3\obj\Debug\Generic_task3.csprojResolveAssemblyReference.cache
+C:\Users\Denis\source\repos\Generic_task3\Generic_task3\obj\Debug\Generic_task3.csproj.CoreCompileInputs.cache
+C:\Users\Denis\source\repos\Generic_task3\Generic_task3\obj\Debug\Generic_task3.exe
+C:\Users\Denis\source\repos\Generic_task3\Generic_task3\obj\Debug\Generic_task3.pdb

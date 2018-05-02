@@ -1,0 +1,7 @@
+E:\Prog\C#\Generic_task5\Generic_task5\bin\Debug\Generic_task5.exe.config
+E:\Prog\C#\Generic_task5\Generic_task5\bin\Debug\Generic_task5.exe
+E:\Prog\C#\Generic_task5\Generic_task5\bin\Debug\Generic_task5.pdb
+E:\Prog\C#\Generic_task5\Generic_task5\obj\Debug\Generic_task5.csprojResolveAssemblyReference.cache
+E:\Prog\C#\Generic_task5\Generic_task5\obj\Debug\Generic_task5.csproj.CoreCompileInputs.cache
+E:\Prog\C#\Generic_task5\Generic_task5\obj\Debug\Generic_task5.exe
+E:\Prog\C#\Generic_task5\Generic_task5\obj\Debug\Generic_task5.pdb
