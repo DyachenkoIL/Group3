@@ -1,0 +1,7 @@
+E:\Prog\C#\Collections_task4\Collections_task4\bin\Debug\Collections_task4.exe.config
+E:\Prog\C#\Collections_task4\Collections_task4\bin\Debug\Collections_task4.exe
+E:\Prog\C#\Collections_task4\Collections_task4\bin\Debug\Collections_task4.pdb
+E:\Prog\C#\Collections_task4\Collections_task4\obj\Debug\Collections_task4.csprojResolveAssemblyReference.cache
+E:\Prog\C#\Collections_task4\Collections_task4\obj\Debug\Collections_task4.csproj.CoreCompileInputs.cache
+E:\Prog\C#\Collections_task4\Collections_task4\obj\Debug\Collections_task4.exe
+E:\Prog\C#\Collections_task4\Collections_task4\obj\Debug\Collections_task4.pdb

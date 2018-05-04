@@ -1,0 +1,10 @@
+E:\Prog\C#\Collections_task1\Collections_task1\obj\Debug\Collections_task1.csprojResolveAssemblyReference.cache
+E:\Prog\C#\Collections_task1\Collections_task1\obj\Debug\Collections_task1.csproj.CoreCompileInputs.cache
+E:\Prog\C#\Collections_task1\Collections_task1\bin\Debug\Collections_task1.exe.config
+E:\Prog\C#\Collections_task1\Collections_task1\bin\Debug\Collections_task1.exe
+E:\Prog\C#\Collections_task1\Collections_task1\bin\Debug\Collections_task1.pdb
+E:\Prog\C#\Collections_task1\Collections_task1\obj\Debug\Collections_task1.exe
+E:\Prog\C#\Collections_task1\Collections_task1\obj\Debug\Collections_task1.pdb
+D:\Git reposit\Group3\9 collections\Collections_task1\Collections_task1\bin\Debug\Collections_task1.exe.config
+D:\Git reposit\Group3\9 collections\Collections_task1\Collections_task1\obj\Debug\Collections_task1.exe
+D:\Git reposit\Group3\9 collections\Collections_task1\Collections_task1\obj\Debug\Collections_task1.pdb

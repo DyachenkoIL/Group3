@@ -1,0 +1,7 @@
+E:\Prog\C#\Collections_task2\Collections_task2\bin\Debug\Collections_task2.exe.config
+E:\Prog\C#\Collections_task2\Collections_task2\bin\Debug\Collections_task2.exe
+E:\Prog\C#\Collections_task2\Collections_task2\bin\Debug\Collections_task2.pdb
+E:\Prog\C#\Collections_task2\Collections_task2\obj\Debug\Collections_task2.csprojResolveAssemblyReference.cache
+E:\Prog\C#\Collections_task2\Collections_task2\obj\Debug\Collections_task2.csproj.CoreCompileInputs.cache
+E:\Prog\C#\Collections_task2\Collections_task2\obj\Debug\Collections_task2.exe
+E:\Prog\C#\Collections_task2\Collections_task2\obj\Debug\Collections_task2.pdb

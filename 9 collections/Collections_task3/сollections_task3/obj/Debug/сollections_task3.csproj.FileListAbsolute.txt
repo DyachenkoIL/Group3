@@ -1,0 +1,7 @@
+C:\Users\Виталий\source\repos\сollections_task3\сollections_task3\bin\Debug\сollections_task3.exe.config
+C:\Users\Виталий\source\repos\сollections_task3\сollections_task3\bin\Debug\сollections_task3.exe
+C:\Users\Виталий\source\repos\сollections_task3\сollections_task3\bin\Debug\сollections_task3.pdb
+C:\Users\Виталий\source\repos\сollections_task3\сollections_task3\obj\Debug\сollections_task3.csprojResolveAssemblyReference.cache
+C:\Users\Виталий\source\repos\сollections_task3\сollections_task3\obj\Debug\сollections_task3.csproj.CoreCompileInputs.cache
+C:\Users\Виталий\source\repos\сollections_task3\сollections_task3\obj\Debug\сollections_task3.exe
+C:\Users\Виталий\source\repos\сollections_task3\сollections_task3\obj\Debug\сollections_task3.pdb
