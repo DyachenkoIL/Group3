@@ -18,21 +18,21 @@ namespace io_task2
     {
         static void Main(string[] args)
         {
-            User[] trains = new User[3];
-            trains[0] = new User(1963,"Andrew","Kokado");
-            trains[1] = new User(1979,"Kapitalist","Kapitalistoff");
-            trains[2] = new User(2000,"Igor", "Dyachenko");
+            User[] us = new User[3];
+            us[0] = new User(1963,"Andrew","Kokado");
+            us[1] = new User(1979,"Kapitalist","Kapitalistoff");
+            us[2] = new User(2000,"Igor", "Dyachenko");
             string path = @"D:\special\file.dat";
             
             try
             {
                 using (StreamWriter writer = new StreamWriter(path))
                 {
-                    foreach (User train in trains)
+                    foreach (User u in us)
                     {
-                        writer.Write(train.Number + " ");
-                        writer.Write(train.FirstStat + " ");
-                        writer.WriteLine(train.EndStat);
+                        writer.Write(u.Number + " ");
+                        writer.Write(u.FirstStat + " ");
+                        writer.WriteLine(u.EndStat);
                     }   
                 }
                 using (StreamReader reader = new StreamReader(path))

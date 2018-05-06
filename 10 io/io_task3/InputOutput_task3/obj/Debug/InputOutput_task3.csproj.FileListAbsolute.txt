@@ -1,0 +1,7 @@
+E:\Prog\C#\InputOutput_task3\InputOutput_task3\bin\Debug\InputOutput_task3.exe.config
+E:\Prog\C#\InputOutput_task3\InputOutput_task3\bin\Debug\InputOutput_task3.exe
+E:\Prog\C#\InputOutput_task3\InputOutput_task3\bin\Debug\InputOutput_task3.pdb
+E:\Prog\C#\InputOutput_task3\InputOutput_task3\obj\Debug\InputOutput_task3.csprojResolveAssemblyReference.cache
+E:\Prog\C#\InputOutput_task3\InputOutput_task3\obj\Debug\InputOutput_task3.csproj.CoreCompileInputs.cache
+E:\Prog\C#\InputOutput_task3\InputOutput_task3\obj\Debug\InputOutput_task3.exe
+E:\Prog\C#\InputOutput_task3\InputOutput_task3\obj\Debug\InputOutput_task3.pdb

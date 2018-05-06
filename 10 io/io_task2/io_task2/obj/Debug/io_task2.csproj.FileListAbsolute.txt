@@ -11,3 +11,6 @@ C:\Users\admin\Desktop\io_task2\io_task2\obj\Debug\io_task2.pdb
 C:\Users\admin\Desktop\io_task2\io_task2\bin\Debug\io_task2.exe
 C:\Users\admin\Desktop\io_task2\io_task2\bin\Debug\io_task2.pdb
 C:\Users\admin\Desktop\io_task2\io_task2\obj\Debug\io_task2.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\Group3\10 io\io_task2\io_task2\bin\Debug\io_task2.exe.config
+C:\Users\admin\Desktop\Group3\10 io\io_task2\io_task2\obj\Debug\io_task2.exe
+C:\Users\admin\Desktop\Group3\10 io\io_task2\io_task2\obj\Debug\io_task2.pdb
