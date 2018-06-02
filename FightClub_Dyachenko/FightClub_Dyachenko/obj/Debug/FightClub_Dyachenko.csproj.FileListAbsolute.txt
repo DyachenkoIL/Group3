@@ -1,0 +1,9 @@
+C:\Users\admin\Desktop\FightClub_Dyachenko\FightClub_Dyachenko\bin\Debug\FightClub_Dyachenko.exe.config
+C:\Users\admin\Desktop\FightClub_Dyachenko\FightClub_Dyachenko\bin\Debug\FightClub_Dyachenko.exe
+C:\Users\admin\Desktop\FightClub_Dyachenko\FightClub_Dyachenko\bin\Debug\FightClub_Dyachenko.pdb
+C:\Users\admin\Desktop\FightClub_Dyachenko\FightClub_Dyachenko\obj\Debug\FightClub_Dyachenko.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\FightClub_Dyachenko\FightClub_Dyachenko\obj\Debug\FightClub_Dyachenko.Form1.resources
+C:\Users\admin\Desktop\FightClub_Dyachenko\FightClub_Dyachenko\obj\Debug\FightClub_Dyachenko.Properties.Resources.resources
+C:\Users\admin\Desktop\FightClub_Dyachenko\FightClub_Dyachenko\obj\Debug\FightClub_Dyachenko.csproj.GenerateResource.Cache
+C:\Users\admin\Desktop\FightClub_Dyachenko\FightClub_Dyachenko\obj\Debug\FightClub_Dyachenko.exe
+C:\Users\admin\Desktop\FightClub_Dyachenko\FightClub_Dyachenko\obj\Debug\FightClub_Dyachenko.pdb
